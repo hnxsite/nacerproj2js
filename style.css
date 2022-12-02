@@ -1,0 +1,120 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#header{
+    width: 99%;
+    height: 150px;
+    background-color: rgba(236, 194, 54, 0.644);
+    text-align: center;
+}
+header h1{
+    display: inline-block;
+}
+#span{
+    width: 35%;
+    height: 100%;
+    background-color: white;
+    float: left;
+}
+#nav{
+    width: 30%;
+    height: 100%;
+    background-color: white;
+    float: right;
+}
+#naacer{
+    width: 80px;
+    margin-left: 4px;
+    border-radius: 50%;
+    float: left;
+    margin-right: 4px;
+}
+h1{
+    line-height: 110px;
+    margin-left: 6px;
+}
+button{
+    float: right;
+    width: 130px;
+    height: 70px;
+   
+}
+main{
+    width: 100%;
+    height: 400px;
+    background-color: rgba(66, 209, 209, 0.123);
+}
+footer{
+    width: 100%;
+    height: 200px;
+    background-color: rgba(78, 9, 99, 0.637);
+}
+#fatma{
+    width: 50%;
+    height: 100%;
+    background-color: bisque;
+    margin-right: 270px;
+    transform: translateX(50%);
+}
+img5,img6,img7,img8{
+    width: 100%;
+    height: 100%;
+}
+#img10{
+    width: 100%;
+    height: 100%;
+}
+footer{
+    text-align: center;
+   
+}
+#p1{
+    font-size: 20px;
+    margin-left:11px;
+    margin-right:11px;
+  
+}
+#arabic{
+    background:url(algeria.jpg);
+    background-size: 200px;
+    margin-left: 5px;
+    width: 49%;
+    padding: 10px 4px;
+    border: 0px;
+    border-radius:15px 15px 15px 15px ;
+    font-weight: bolder;
+}
+#Français{
+  background:url(France.png);
+  background-size: 200px;
+    width: 49%;
+    padding: 10px 4px;
+    border: 0px;
+    border-radius:15px 15px 15px 15px ;
+    font-weight: bolder;
+}
+#English{
+    background:url(english.png);
+    background-size: 200px;
+    margin-left: 5px;
+    margin-top: 5px;
+    width: 49%;
+    padding: 10px 4px;
+    border: 0px;
+    border-radius:15px 15px 15px 15px ;
+    font-weight: bolder;
+}
+#Nederlands{
+    background:url(Netherlands.png);
+    background-size: 200px;
+  margin-top: 5px;
+    width: 49%;
+    padding: 10px 4px;
+    border: 0px;
+    border-radius:15px 15px 15px 15px ;
+  font-weight: bolder;
+}
+button:hover{
+    cursor: pointer;
+}
